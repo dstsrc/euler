@@ -1,2 +1,2 @@
-задачи с сайта проект эйлера
-задача считается сделаной как только получен ответ за некое конечное время < 1 минуты
+tasks from the euler project site
+the task is considered completed as soon as an answer is received for a certain finite time <1 minute
